@@ -1,7 +1,5 @@
 # Graphs, Entities, and Step Mixture for Enriching Graph Representation
 
-## NAVER Massive A.I Model for Universal User Representation
-
 This is a TensorFlow implementation of GESM for the task of classification of nodes in a graph, as described in our paper:
 
 Kyuyong Shin, Wonyoung Shin, Jung-Woo Ha, Sunyoung Kwon, [Graphs, Entities, and Step Mixture](https://arxiv.org/abs/2005.08485)
